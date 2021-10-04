@@ -10,7 +10,8 @@
 #Collect first temp
 import bs4, requests, os, openpyxl
 
-os.chdir('C:\\Users\\Administrator\\Documents\\MyPython\\weather_to_excel')
+#os.chdir('C:\\Users\\Administrator\\Documents\\MyPython\\weather_to_excel')
+os.chdir('C:\\MyGit\\Python\\MyPython\\weather_to_excel')
 css_selector = '#top_obs_temp'
 
 
